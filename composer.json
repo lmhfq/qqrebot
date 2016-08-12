@@ -1,0 +1,17 @@
+{
+    "name": "lmhdxa/qqrebot",
+    "description": "this is a php qqrebot",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lmh",
+            "email": "991564110@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Robot\\": "src/"
+        }
+    }
+}
