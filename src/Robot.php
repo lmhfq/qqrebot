@@ -2,9 +2,9 @@
 namespace Robot;
 /**
  * Robot.php
- * @author  lmh <lmh@fshows.com|Q:991564110>
- * @link http://www.51youdian.com/
- * @copyright 2015-2016 51youdian.com
+ * @author  lmh <991564110@qq.com|Q:991564110>
+ * @link http://www.991564110.com/
+ * @copyright 2015-2016 991564110.com
  * @package Robot\Robot
  * @since 1.0
  * @date: 2016/8/11- 20:59
