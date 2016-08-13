@@ -1,4 +1,7 @@
 # qqrebot
 
 
-composer require endroid/qrcode
+```sh
+composer require lmhdxa/qqrebot
+```
+
